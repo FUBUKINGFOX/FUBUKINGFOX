@@ -19,8 +19,10 @@
 </div>
 
 ### Skills
+
+<div>
 <img src="./icon/git.png" alt="git" title="Git Version Control" width="52" />
 <img src="./icon/nodejs.png" alt="nodejs" title="NodeJS" width="52" />
 <img src="./icon/javascript.png" alt="javascript" title="Javascript" width="52" />
 <img src="./icon/python.png" alt="python" title="Python" width="52" />
-
+</div>
