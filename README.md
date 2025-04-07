@@ -10,7 +10,7 @@
 * 🖥️ `Favorite lang`: **JavaScript & Python**
 
 ### About me
->化工科, 程式是自學的，不足之處請多多指教!!!
+>化工科，比起調殺蟲劑更喜歡造爬蟲www
 
 <br>
 <h2 align="center">🍵 Statistics</h2>
