@@ -2,11 +2,11 @@
 
 <img align='right' src='./res/crash.png' width='40%'>
 
-* ✨ `My name is`: **Jaycheng**,
-* 🪪 `Pronouns`: **He/Him**,
-* 🏫 `I'm study in`: **NTUST**,
-* 🌱 `I’m currently learning`: **JavaScript**,
-* ❤️ `I love`: **Perle milk tea🧋**  ,
+* ✨ `My name is`: **Jaycheng**
+* 🪪 `Pronouns`: **He/Him**
+* 🏫 `I'm study in`: **NTUST**
+* 🌱 `I’m currently learning`: **JavaScript**
+* ❤️ `I love`: **Perle milk tea🧋**
 * 🖥️ `Favorite lang`: **JavaScript & Python**
 
 ### About me
